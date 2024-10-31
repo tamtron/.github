@@ -3,7 +3,8 @@ Provide a brief summary of the changes and their purpose.
 
 **Related Issues**
 - Closes #IssueNumber
-- References #OtherIssueNumber (optional)
+- References #OtherIssueNumber
+- References tamtron/other-repo#ExternalIssueNumber
 
 **Changes Made**
 - List the main changes or additions in bullet points.
