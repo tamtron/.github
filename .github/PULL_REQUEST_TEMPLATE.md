@@ -1,12 +1,3 @@
----
-name: Pull Request
-about: Submit code changes or additions to the project
-title: "[FEAT] Add Feature X"
-labels: ''
-assignees: ''
-
----
-
 **Summary**
 Provide a brief summary of the changes and their purpose.
 
